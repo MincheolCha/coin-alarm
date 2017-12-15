@@ -1,0 +1,23 @@
+{
+  "name": "coin-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MincheolCha/coin-alarm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MincheolCha/coin-alarm/issues"
+  },
+  "homepage": "https://github.com/MincheolCha/coin-alarm#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.17.1"
+  }
+}
