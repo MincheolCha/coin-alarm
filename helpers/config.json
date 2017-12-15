@@ -1,0 +1,9 @@
+{
+    "bitfinex": {
+        "host": "https://api.bitfinex.com",
+        "coins": [
+            "tBTCUSD",
+            "tLTCUSD"
+        ]
+    }
+}
