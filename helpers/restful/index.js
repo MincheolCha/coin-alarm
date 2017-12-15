@@ -11,7 +11,6 @@ function request(method, options, callback) {
     };
 
     return axios.request(axiosOptions).then((response) => {
-        console.log(`success ${response.status}: ${JSON.stringify(response.data)}`);
         return callback(null, response.data);
     }, error => callback(error.response));
 }
